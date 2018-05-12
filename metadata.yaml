@@ -1,0 +1,35 @@
+_repo: The-Fortunes-of-the-Farrells_21120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaizey, George de Horne, Mrs.
+    aliases:
+    - Mansergh, Jessie
+    - Vaizey, Mrs. George de Horne
+    - Vaizey, Jessie Bell
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '9729'
+    url: http://www.gutenberg.org/2009/agents/9729
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
+description: ''
+gutenberg_issued: '2007-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Families -- Juvenile fiction'
+title: The Fortunes of the Farrells
+url: http://www.gutenberg.org/ebooks/21120
